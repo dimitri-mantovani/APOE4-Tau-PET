@@ -2,7 +2,7 @@
 Figure 3. Spatial extent of [18F]flortaucipir tau PET positivity by Aβ burden,
 plasma p-tau217, clinical status and APOE haplotype.
 
-Spatial extent is the number of tau-positive Braak regions (Braak I–II, III–IV
+Spatial extent here is the number of tau-positive Braak regions (Braak I–II, III–IV
 and V–VI; range 0–3). The script uses APOE 3/3, 3/4 and 4/4 participants,
 excludes co-pathology (COPAT = 1), requires p-tau217 within 365 days of the PET
 scan, and keeps the earliest eligible visit per participant (Overall column)
